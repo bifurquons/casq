@@ -7,4 +7,4 @@ in_menu: true
 
 📧 [bifurq@pm.me](mailto:bifurq@pm.me)
 
-🖼️ https://pixelfed.fr/bifurq 
+🖼️ [https://pixelfed.fr/bifurq](https://pixelfed.fr/bifurq) 
