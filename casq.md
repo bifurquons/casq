@@ -3,7 +3,7 @@ title: "CASQ"
 order: 1
 in_menu: true
 ---
-# Objectif
+## Objectif
 
 Cet outil est à destination des associations de cyclistes et/ou des responsables voirie d'un territoire.
 
@@ -13,7 +13,7 @@ Il peut être complété par les 2 parties en amont de la réalisation d'un proj
 
 Il peut aussi être complété *a posteriori* par l'association pour souligner les améliorations à prévoir pour les prochains aménagements. 
 
-# Génèse
+## Génèse
 
 L'association [Vélo En Têt](https://veloentet.fr/) est souvent consultée pour donner son avis sur des projets d'aménagements cyclables, ou doit souvent faire part de ses remontrances sur des aménagements mal pensés.
 
@@ -23,16 +23,9 @@ Cet outil est né de l'idée d'évaluer la qualité des projets qu'on nous soume
 
 Le nom a volontairement été choisi en rapport avec le vélo et renvoie la responsabilité du casque aux aménageurs avant celle des cyclistes : un bon aménagement nous protégera bien plus s'il nous évite des conflits qu'un casque lors d'un accident.
 
-Responsables voiries, pensez au CASQ !
+**Responsables voiries, pensez au CASQ !**
 
-# La grille d'analyse
-
-Les 7 catégories d'analyse s'inspirent cette infographie OSER - POUVOIR - VOULOIR.
-
-infographie BABE
-
-
-# L'outil
+## L'outil
 
 fichier imprimable
 
