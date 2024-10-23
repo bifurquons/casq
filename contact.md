@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 5
+order: 4
 in_menu: true
 ---
 ![BIFURQ]({% link images/rect8103-0.png %})
