@@ -1,5 +1,5 @@
 ---
-title: "Questions"
+title: "Items"
 order: 3
 in_menu: true
 ---
@@ -76,7 +76,7 @@ Les 7 catégories d'analyse s'inspirent cette infographie OSER - POUVOIR - VOULO
 
 ### Pertinence
 
-- Choix du type d’aménagement [(recommandations CEREMA)
+- Choix du type d’aménagement [(recommandations CEREMA)](https://www.cerema.fr/fr/actualites/8-recommandations-reussir-votre-piste-cyclable)
 
 - Largeur selon flux estimé/désiré
 
