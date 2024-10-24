@@ -22,3 +22,7 @@ Selon les conditions suivantes :
 \* **Partage dans les Mêmes Conditions**
 
 ## Format de fichiers et téléchargement 
+
+[pdf](https://github.com/bifurquons/casq/blob/2ee14fed18ebdac4369b18eb6bfdc2a25f985d17/pdf/Grille%20d'%C3%A9valuation%20des%20am%C3%A9nagements%20v0.4.pdf)
+
+odt 
