@@ -3,6 +3,10 @@ title: "Téléchargement"
 order: 3
 in_menu: true
 ---
+![CASQ page 1]({% link images/CASQ-p1.png %})
+
+![CASQ page 2]({% link images/CASQ-p2.png %})
+
 ## Conditions d'utilisations
 
 Le fichier est sous licence [Creative Commons By Nc Sa](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)
@@ -23,6 +27,5 @@ Selon les conditions suivantes :
 
 ## Format de fichiers et téléchargement 
 
-[pdf](https://github.com/bifurquons/casq/blob/2ee14fed18ebdac4369b18eb6bfdc2a25f985d17/pdf/Grille%20d'%C3%A9valuation%20des%20am%C3%A9nagements%20v0.4.pdf)
 
-odt 
+[odt](https://kdrive.infomaniak.com/app/share/201810/ef387309-b009-4857-a1cf-148d39891663)  [pdf](https://kdrive.infomaniak.com/app/share/201810/6c000e37-1f9b-4d29-a7f4-70ca8476ad61) 
