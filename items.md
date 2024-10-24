@@ -5,7 +5,9 @@ in_menu: true
 ---
 ## La grille d'analyse
 
-Les 7 catégories d'analyse s'inspirent cette infographie OSER - POUVOIR - VOULOIR.
+Les 7 catégories d'analyse s'inspirent cette infographie :
+![oser-pouvoir-vouloir]({% link images/crow.png %})
+
 
 ### Lisibilité
 
