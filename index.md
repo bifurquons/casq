@@ -17,18 +17,20 @@ Ici, le CASQ, c'est un questionnaire permettant de vérifier la qualité globale
 
 ![CASQ]({% link images/g1064.png %})
 
+-----
 
 Autres créations :
 
 ![MOBISCORE]({% link images/Mobi-Score4.png %})
 
 Le [Mobi-Score](https://bifurquons.github.io/mobiscore/)
+
 Enquête pour évaluer les politiques de mobilités durables d'un territoire
 
 
----
 
 ![METROMINUTO]({% link images/metrominuto.png %}) 
 
 Différents [metrominutos](https://bifurquons.github.io/metrominuto/)
+
 Cartes pour inciter à privilégier les déplacements actifs en cassant l'idée reçu que c'est long. 
