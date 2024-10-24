@@ -23,14 +23,4 @@ Cet outil est né de l'idée d'évaluer la qualité des projets qu'on nous soume
 
 Le nom a volontairement été choisi en rapport avec le vélo et renvoie la responsabilité du casque aux aménageurs avant celle des cyclistes : un bon aménagement nous protégera bien plus s'il nous évite des conflits qu'un casque lors d'un accident.
 
-**Responsables voiries, pensez au CASQ !**
-
-## L'outil
-
-fichier imprimable
-
-version formulaire pour travail sur ordi/tablette
-
-téléchargement
-
-Licence 
+**Responsables voirie, pensez au CASQ !** 
