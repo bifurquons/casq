@@ -31,6 +31,6 @@ Enquête pour évaluer les politiques de mobilités durables d'un territoire
 
 ![METROMINUTO]({% link images/metrominuto.png %}) 
 
-Différents [metrominutos](https://bifurquons.github.io/metrominuto/)
+Différents [metrominutos & centrominutos](https://bifurquons.github.io/metrominuto/)
 
 Cartes pour inciter à privilégier les déplacements actifs en cassant l'idée reçu que c'est long. 
