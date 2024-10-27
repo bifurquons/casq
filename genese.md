@@ -21,6 +21,8 @@ L'écart entre nos exigences de cyclistes du quotidien et celui des aménageurs 
 
 Cet outil est né de l'idée d'évaluer la qualité des projets qu'on nous soumettait sans omettre les différents points de vue.
 
+Il s'apparente à la [check-list aménagements](https://extranet.gracq.org/sites/default/files/2020_-_check-list_amenagement.pdf) du GRACQ dont il reprend l'idée principale et quelques items.
+
 Le nom a volontairement été choisi en rapport avec le vélo et renvoie la responsabilité du casque aux aménageurs avant celle des cyclistes : un bon aménagement nous protégera bien plus s'il nous évite des conflits qu'un casque lors d'un accident.
 
 **Responsables voirie, pensez au CASQ !** 
