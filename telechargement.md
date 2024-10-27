@@ -23,8 +23,16 @@ Selon les conditions suivantes :
 
 ## Format de fichiers et téléchargement 
 
+### Version à imprimer
 
-[odt](https://kdrive.infomaniak.com/app/share/201810/ef387309-b009-4857-a1cf-148d39891663)  [pdf](https://kdrive.infomaniak.com/app/share/201810/6c000e37-1f9b-4d29-a7f4-70ca8476ad61) 
+* [CASQ.pdf](https://kdrive.infomaniak.com/app/share/201810/dc6163d7-76e8-4f57-9129-7499eb6d94fc) 
+
+* [CASQ.odt](https://kdrive.infomaniak.com/app/share/201810/9f6ea192-4c5d-4844-85df-f91c40d9fd91)  (fichier source)
+
+### Version numérique
+
+à venir
+
 
 ## Aperçu
 
