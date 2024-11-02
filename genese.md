@@ -26,3 +26,9 @@ Il s'apparente à la [check-list aménagements](https://extranet.gracq.org/sites
 Le nom a volontairement été choisi en rapport avec le vélo et renvoie la responsabilité du casque aux aménageurs avant celle des cyclistes : un bon aménagement nous protégera bien plus s'il nous évite des conflits qu'un casque lors d'un accident.
 
 **Responsables voirie, pensez au CASQ !** 
+
+## Utilisation
+
+Le fichier est à imprimer en recto/verso. Les items sont volontairement écrits très pâle pour pouvoir récrire par-dessus.
+
+Une version directement remplissable depuis une tablette ou un ordinateur (en formulaire pdf) verra sûrement le jour, le temps de peaufiner tous les items. 
