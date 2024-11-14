@@ -81,4 +81,5 @@ Largeur suffisante tout le long
 * Pôles d’intérêts reliés
 
 * Anticipation des risques (coulée de boue, chute branches, zone accidentogène)
-Profils (cargo, enfant autonome, professionnel·le, vélotaffeur·euse, touriste) 
+
+* Profils (cargo, enfant autonome, professionnel·le, vélotaffeur·euse, touriste) 
