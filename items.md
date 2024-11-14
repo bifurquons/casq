@@ -12,27 +12,19 @@ Les 7 catégories d'analyse s'inspirent cette infographie :
 ### Lisibilité
 
 * Marquage (peinture, couleur du revêtement, jalonnement)
-
-* Aménagement découvrable depuis tous les points d’accès
-
-* Linéaire lisible par tous types d’usagers
-
-* Continuité du marquage aux intersections notamment
-
-* Séparation physique (bordure pardonnante, ligne podotactile)
-
+Aménagement visible depuis tous les points d’accès
+Itinéraire compréhensible par tous types d’usagers
+Continuité du marquage (aux intersections notamment)
+Séparation physique (bordure pardonnante, ligne podotactile)
 
 ### Efficacité
 
 * Itinéraire direct ou détours
+Traversée de la chaussée
+Rayon de courbure adapté
+Pas d’entraves (barrières, poteaux, mobilier)
+Largeur suffisante tout le long
 
-* Traversée de la chaussée
-
-* Rayon de courbure adapté
-
-* Pas d’entraves (barrières, poteaux, mobilier)
-
-* Largeur suffisante tout le long
 
 ### Priorité
 
@@ -40,35 +32,38 @@ Les 7 catégories d'analyse s'inspirent cette infographie :
 
 * Présence abusive de stop, cédez-le-passage, barrières
 
-* DSC signalés
+* Priorité favorable aux cycles
 
-* Présence de M12 et de sas vélo
+* Présence de M12, de sas vélo et doubles-sens cyclables signalés
 
 ### Sécurité
 
-* Séparation des flux automobiles & piétons
+* Séparation des flux automobiles & piétons (+zone tampon portières)
 
-* Éclairage généreux
+* Éclairage
 
-* Ratio vitesse vélos/voitures
+* Ratio vitesse vélos/voitures en montée et vélos/piétons en descente
 
 * Protection contre le chevauchement automobile
 
 * Visibilité réciproque entre tous les usagers
 
+
 ### Connexion
 
 * Raccord avec l'existant cyclable
 
-* Raccord avec la chaussée
+* Réinsertion sûre et fluide sur la chaussée
 
 * Desserte immédiate des rues adjacentes
 
 * Intégration dans le réseau global
 
+* Rampe vélo ou goulotte dans les escaliers
+
 ### Confort
 
-* Roulement (revêtement, bateaux, ressauts)
+* Roulement (revêtement non glissant, non vibrant, bateaux, ressauts)
 
 * Agrément (haies, arbres, ombre, peintures)
 
@@ -76,14 +71,14 @@ Les 7 catégories d'analyse s'inspirent cette infographie :
 
 * Dénivelés absorbés au maximum
 
+
 ### Pertinence
 
-- Choix du type d’aménagement [(recommandations CEREMA)](https://www.cerema.fr/fr/actualites/8-recommandations-reussir-votre-piste-cyclable)
+* Choix du type d’aménagement (recommandations CEREMA)
 
-- Largeur selon flux estimé/désiré
+* Largeur selon flux estimé
 
-- Zones d’intérêts reliées
+* Pôles d’intérêts reliés
 
-- Anticipation des risques (coulée de boue, chute branches, zone accidentogène)
-
-- Personas (cargo, enfant autonome, professionnel·le, vélotaffeur·euse, touriste) 
+* Anticipation des risques (coulée de boue, chute branches, zone accidentogène)
+Profils (cargo, enfant autonome, professionnel·le, vélotaffeur·euse, touriste) 
