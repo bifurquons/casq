@@ -12,18 +12,26 @@ Les 7 catégories d'analyse s'inspirent cette infographie :
 ### Lisibilité
 
 * Marquage (peinture, couleur du revêtement, jalonnement)
-Aménagement visible depuis tous les points d’accès
-Itinéraire compréhensible par tous types d’usagers
-Continuité du marquage (aux intersections notamment)
-Séparation physique (bordure pardonnante, ligne podotactile)
+
+* Aménagement visible depuis tous les points d’accès
+
+* Itinéraire compréhensible par tous types d’usagers
+
+* Continuité du marquage (aux intersections notamment)
+
+* Séparation physique (bordure pardonnante, ligne podotactile)
 
 ### Efficacité
 
 * Itinéraire direct ou détours
-Traversée de la chaussée
-Rayon de courbure adapté
-Pas d’entraves (barrières, poteaux, mobilier)
-Largeur suffisante tout le long
+
+* Traversée de la chaussée
+
+* Rayon de courbure adapté
+
+* Pas d’entraves (barrières, poteaux, mobilier)
+
+* Largeur suffisante tout le long
 
 
 ### Priorité
