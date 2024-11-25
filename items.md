@@ -61,7 +61,7 @@ Les 7 catégories d'analyse s'inspirent cette infographie :
 
 * Raccord avec l'existant cyclable
 
-* Réinsertion sûre et fluide sur la chaussée
+* Insertion et réinsertion sûre et fluide sur la chaussée
 
 * Desserte immédiate des rues adjacentes
 
