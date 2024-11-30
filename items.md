@@ -8,6 +8,14 @@ in_menu: true
 Les 7 catégories d'analyse s'inspirent cette infographie :
 ![oser-pouvoir-vouloir]({% link images/crow.png %})
 
+La notation permet de rapidement cibler la ou les thématiques à améliorer. L’ensemble des 7 notes individuelles peut servir à établir une note finale sur 20.
+Chaque graduation peut s’entendre de cette façon :
+
+* -1 régression
+* 0 pas d’amélioration
+* +1 pas mal
+* +2 bien
+* +3 très bien
 
 ### Lisibilité
 
