@@ -23,13 +23,15 @@ Selon les conditions suivantes :
 
 ## Format de fichiers et téléchargement 
 
+[Notice d'utilisation](https://kdrive.infomaniak.com/app/share/201810/f34f0ab0-58e6-49d7-a5f7-9cef205209b0)
+
 ### Version à imprimer
 
 à imprimer en recto/verso sur bords courts pour faire un livret
 
-* [CASQ livret.pdf](https://kdrive.infomaniak.com/app/share/201810/167617bc-9284-489c-98ed-4a78738891cf) 
+* [CASQ livret.pdf](https://kdrive.infomaniak.com/app/share/201810/09c523f6-5bc0-41fc-9b45-51a14af2d6ae) 
 
-* [CASQ livret.odt](https://kdrive.infomaniak.com/app/share/201810/dc6163d7-76e8-4f57-9129-7499eb6d94fc)  (fichier source)
+* [CASQ livret.odt](https://kdrive.infomaniak.com/app/share/201810/dd4d6b2c-6f5f-4faa-a747-56c472d01165)  (fichier source)
 
 ### Version numérique
 
