@@ -23,23 +23,23 @@ Selon les conditions suivantes :
 
 ## Format de fichiers et téléchargement 
 
-[Notice d'utilisation](https://kdrive.infomaniak.com/app/share/201810/f34f0ab0-58e6-49d7-a5f7-9cef205209b0)
+[Notice d'utilisation](https://kdrive.infomaniak.com/app/share/201810/69400d89-cbd8-46e9-ac27-f857b69eda10)
 
 ### Version à imprimer
 
 à imprimer en recto/verso sur bords courts pour faire un livret
 
-* [CASQ livret.pdf](https://kdrive.infomaniak.com/app/share/201810/09c523f6-5bc0-41fc-9b45-51a14af2d6ae) 
+* [CASQ livret.pdf](https://kdrive.infomaniak.com/app/share/201810/69400d89-cbd8-46e9-ac27-f857b69eda10) 
 
-* [CASQ livret.odt](https://kdrive.infomaniak.com/app/share/201810/dd4d6b2c-6f5f-4faa-a747-56c472d01165)  (fichier source)
+* [CASQ livret.odt](https://kdrive.infomaniak.com/app/share/201810/69400d89-cbd8-46e9-ac27-f857b69eda10)  (fichier source)
 
 ### Version numérique
 
 Peut se compléter directement depuis une tablette ou un ordinateur
 
-* [CASQ formulaire.pdf](https://kdrive.infomaniak.com/app/share/201810/b14b5263-e0a7-4093-a030-99a164a72bcd)
+* [CASQ formulaire.pdf](https://kdrive.infomaniak.com/app/share/201810/69400d89-cbd8-46e9-ac27-f857b69eda10)
 
-* [CASQ formulaire.odt](https://kdrive.infomaniak.com/app/share/201810/456b1cf1-571c-4460-bedc-eb87096bb7be) (fichier source)
+* [CASQ formulaire.odt](https://kdrive.infomaniak.com/app/share/201810/69400d89-cbd8-46e9-ac27-f857b69eda10) (fichier source)
 
 
 ## Aperçu
