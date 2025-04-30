@@ -23,9 +23,9 @@ Cet outil est né de l'idée d'évaluer la qualité des projets qu'on nous soume
 
 Il s'apparente à la [check-list aménagements](https://extranet.gracq.org/sites/default/files/2020_-_check-list_amenagement.pdf) du GRACQ dont il reprend l'idée principale et quelques items.
 
-Le nom a volontairement été choisi en rapport avec le vélo et renvoie la responsabilité du casque aux aménageurs avant celle des cyclistes : un bon aménagement nous protégera bien plus qu'un casque s'il nous évite des conflits et des accidents. Le casque, lui ([sans renier son utilité essentielle voire vitale](https://codetrauma.s3.us-east-2.amazonaws.com/2019/12/HelmetFlyerSummerREV2_July2010.pdf)), arrive en dernier recours. Mieux vaut prévenir que guérir.
+Le nom a volontairement été choisi en rapport avec le vélo et renvoie la responsabilité du casque aux aménageurs avant celle des cyclistes : un bon aménagement nous protégera bien plus qu'un casque s'il nous évite des conflits et des accidents. Le casque, lui ([sans renier son utilité essentielle voire vitale](https://codetrauma.s3.us-east-2.amazonaws.com/2019/12/HelmetFlyerSummerREV2_July2010.pdf)), arrive en dernier recours.
 
-**Responsables voirie, pensez au CASQ !** 
+![casq-framameme]({% link images/casq-framameme.png %})
 
 ## Utilisation
 
