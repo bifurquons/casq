@@ -21,16 +21,32 @@ Ici, le CASQ, c'est un questionnaire permettant de vérifier la qualité globale
 
 Autres créations :
 
-![MOBISCORE]({% link images/Mobi-Score4.png %})
+![METROMINUTO]({% link images/metrominuto.png %})
+<p class="encart">
+Mes différentes cartes des temps de déplacement à pied et à vélo, pour la commune de Cabestany (66)
+</p>
+<a href="https://bifurquons.github.io/metrominuto/" class="bouton">MetroMinuto</a>
 
-Le [Mobi-Score](https://bifurquons.github.io/mobiscore/)
+---
 
-Enquête pour évaluer les politiques de mobilités durables d'un territoire
+![MobiScore]({% link images/mobiscore.png %})
+<p class="encart">
+Enquête pour évaluer les politiques de mobilités durables d’un territoire
+</p>
+<a href="https://bifurquons.github.io/mobiscore/" class="bouton">MobiScore</a>
 
+---
 
+![CASQ]({% link images/g1064.png %})
+<p class="encart">
+Questionnaire permettant de vérifier la qualité globale d’un aménagement cyclable
+</p>
+<a href="https://bifurquons.github.io/casq" class="bouton">CASQ</a>
 
-![METROMINUTO]({% link images/metrominuto.png %}) 
+---
 
-Différents [metrominutos & centrominutos](https://bifurquons.github.io/metrominuto/)
-
-Cartes pour inciter à privilégier les déplacements actifs en cassant l'idée reçu que c'est long. 
+![VEILLO]({% link images/barre-menu.png %})
+<p class="encart">
+Plateforme cartographique de remontée des soucis de déplacements à vélo
+</p> 
+<a href="https://veillo.gogocarto.fr/" class="bouton">VEILLO</a> 
