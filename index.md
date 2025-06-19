@@ -45,6 +45,6 @@ Enquête pour évaluer les politiques de mobilités durables d’un territoire
 
 ![VEILLO]({% link images/barre-menu.png %})
 <p class="encart">
-Plateforme cartographique de remontée des soucis de déplacements à vélo
+Plateforme cartographique de remontée des soucis de déplacements à vélo (en cours de construction)
 </p> 
 <a href="https://veillo.gogocarto.fr/" class="bouton">VEILLO</a> 
