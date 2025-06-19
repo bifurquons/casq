@@ -17,9 +17,14 @@ Ici, le CASQ, c'est un questionnaire permettant de vérifier la qualité globale
 
 ![CASQ]({% link images/g1064.png %})
 
------
+&nbsp;
 
-Autres créations :
+---
+
+&nbsp;
+# Autres créations
+
+&nbsp;
 
 ![METROMINUTO]({% link images/metrominuto.png %})
 <p class="encart">
@@ -27,7 +32,7 @@ Mes différentes cartes des temps de déplacement à pied et à vélo, pour la c
 </p>
 <a href="https://bifurquons.github.io/metrominuto/" class="bouton">MetroMinuto</a>
 
----
+&nbsp;
 
 ![MobiScore]({% link images/mobiscore.png %})
 <p class="encart">
@@ -35,7 +40,7 @@ Enquête pour évaluer les politiques de mobilités durables d’un territoire
 </p>
 <a href="https://bifurquons.github.io/mobiscore/" class="bouton">MobiScore</a>
 
----
+&nbsp;
 
 
 ![VEILLO]({% link images/barre-menu.png %})
