@@ -37,13 +37,6 @@ Enquête pour évaluer les politiques de mobilités durables d’un territoire
 
 ---
 
-![CASQ]({% link images/g1064.png %})
-<p class="encart">
-Questionnaire permettant de vérifier la qualité globale d’un aménagement cyclable
-</p>
-<a href="https://bifurquons.github.io/casq" class="bouton">CASQ</a>
-
----
 
 ![VEILLO]({% link images/barre-menu.png %})
 <p class="encart">
